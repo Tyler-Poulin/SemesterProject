@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArticleProcessor
+comment1.params=directory
+comment1.target=ArticleProcessor(java.lang.String)
+comment2.params=
+comment2.target=void\ readArticles()
+comment3.params=
+comment3.target=java.util.List\ getArticles()
+numComments=4

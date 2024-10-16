@@ -1,0 +1,1248 @@
+EDITORIAL
+
+Editorial: Reducing risks to cities from disasters and
+climate change
+SALEEMUL HUQ, SARI KOVATS, HANNAH REID and DAVID SATTERTHWAITE
+
+I. INTRODUCTION
+The lives and livelihoods of hundreds of millions
+of people will be affected by what is done (or not
+done) in cities with regard to climate change
+over the next 5–10 years. As the paper by Patricia
+Romero Lankao points out, cities are key players
+both in the generation of greenhouse gases and
+in strategies to reduce this generation, especially
+in reducing our dependence on carbon-based
+fuels. Cities also concentrate a large proportion
+of those most at risk from the effects of climate
+change. While the need for city governments and
+civil society groups to act to reduce greenhouse
+gas emissions is well established – and with many
+city governments in Europe and North America
+already acting on this – the need to act to reduce
+vulnerability to climate change is not. In addition, most of the cities (and nations) that face
+the highest risks from the negative effects of
+climate change are those with almost negligible
+contributions to atmospheric greenhouse gases.
+Take, for instance, Cotonou, the economic
+capital of Benin, with around one million inhabitants, whose vulnerability to climate change
+is described in the paper by Krystel Dossou and
+Saleemul Huq, Hannah Reid and David Satterthwaite
+are at the International Institute for Environment and
+Development (IIED); Saleemul Huq and Hannah Reid with
+the Climate Change Group, David Satterthwaite with the
+Human Settlements Group. Sari Kovats is with the London
+School of Hygiene and Tropical Medicine. Saleemul Huq,
+Sari Kovats and David Satterthwaite also contribute to the
+Intergovernmental Panel on Climate Change’s Working
+Group II.
+Acknowledgement: The editorial team is grateful to
+Saleemul Huq, Hannah Reid and Sari Kovats for their help
+in developing this edition. Thanks are also due to: Hannah
+Griffiths and Ernesto Jose Lopez for their help in preparing
+the Book Notes; Jessica Budds for her translation of the
+paper by Mauricio Domínguez Aguilar and Ana García
+de Fuentes, and for her help in editing it; Jean Lubbock for
+her translation of the paper by Krystel M R Dossou and
+Bernadette Gléhouenou-Dossou; and Graham Bowden for
+graphics work in various of the papers.
+
+Bernadette Gléhouenou-Dossou. In 2004, average emissions of carbon dioxide per person in
+Benin were around one-fiftieth that in highincome nations – or one-eightieth that in the
+USA.(1) Like many cities on the coast of West
+Africa, large parts of Cotonou’s economy and
+residential neighbourhoods are particularly
+vulnerable to sea-level rise and storm surges.
+Some roads, beaches and buildings have already
+been destroyed by the regression of the coastline
+in the last 10 years.
+Many other cities in Africa are also at risk
+from sea-level rise and storm surges. Half of the
+continent’s 37 “million cities” are either within
+or have parts that are within the low elevation
+coastal zone. Banjul, Lagos and Alexandria are
+among the cities most at risk, although many
+others are also likely to face much increased risks
+from storms and flooding – but because of the
+lack of local analysis, the scale of these risks has
+yet to be documented.(2)
+Many Asian cities are also particularly at
+risk. Asia has many of the world’s largest cities/
+metropolitan areas that are in the floodplains
+of major rivers (e.g. the Ganges–Brahmaputra,
+the Mekong and the Yangtze) and cycloneprone coastal areas (the Bay of Bengal, the South
+China Sea, Japan and the Philippines).The IPCC
+(Intergovernmental Panel on Climate Change)
+has emphasized how river deltas are among
+the world’s most valuable, heavily populated
+1. In this editorial, figures for carbon dioxide emissions per person
+are drawn from the World Bank’s World Development Indicators
+On-line, accessible at http://www.worldbank.org/reference/.
+2. IPCC Special Report on the Regional Impacts of Climate Change;
+An Assessment of Vulnerability, accessible at http://www.grida.
+no/climate/ipcc/regional/index.htm.
+3. Chapter 6 on Coastal Zones and Marine Ecosystems, in IPCC
+(2001), Climate Change 2001; Impacts, Adaptation and Vulnerability,
+Contribution of Working Group II to the Third Assessment Report
+of the Intergovernmental Panel on Climate Change, Cambridge
+University Press, Cambridge, 1,032 pages.
+
+Environment & Urbanization Copyright © 2007 International Institute for Environment and Development (IIED).
+Vol 19(1): 3–15. DOI: 10.1177/0956247807078058 www.sagepublications.com
+
+3
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+and vulnerable coastal systems.(3) The paper
+by Mozaharul Alam and MD Golam Rabbani
+describes the vulnerability of Dhaka, the capital in
+Bangladesh, to flooding. Dhaka has over 10 million inhabitants and is central to Bangladesh’s
+economy (and its economic success in recent
+years). This is a city already very vulnerable to
+flooding – as shown by the devastation and very
+large economic losses from floods in 1988, 1998
+and 2004. Large sections of the city are only a
+few metres above sea level. Much of Bangladesh
+outside of Dhaka is also very vulnerable to floods –
+and the combination of sea-level rise and increased frequency and intensity of storms that
+climate change is likely to bring greatly increases
+these risks. Yet in 2004, the average contribution
+of each Bangladeshi to carbon dioxide emissions
+was also around one-fiftieth that in high-income
+nations – or one-eightieth that in the USA.
+Mumbai and Shanghai are also very vulnerable to storms and sea-level rise, as described in
+the paper by Alex de Sherbinin, Andrew Schiller
+and Alex Pulsipher. As in Dhaka, large sections of
+these cities are only 1 to 5 metres above sea level.
+Much of central Mumbai is built on landfill –
+the city developed on seven islands, which
+joined into a single landmass over time, as the
+city expanded. Mumbai is also likely to suffer
+from more serious storm surges and increased
+frequency and intensity of extreme weather
+(cyclones) as a result of climate change. The likely
+long-term trend of sea-level rise is likely to prove
+very damaging for Mumbai as this, combined
+with storm surges, may make large areas of the
+city uninhabitable. Perhaps not surprisingly, it is
+mostly low-income households living in informal
+or illegal settlements that face the greatest risks
+from flooding.
+Although in aggregate, China and India are
+major contributors to global greenhouse gas emissions, emissions per person of carbon dioxide are
+still relatively small – for India less than onetenth the average per person in high-income
+nations; for China about one-fifth. In addition,
+their contribution to greenhouse gases already
+released is much smaller. If a global agreement
+was to be reached to reduce total greenhouse gas
+emissions by the amount needed to minimize
+potentially damaging levels of global warming,
+by allocating each person a “carbon” budget,
+both China and India would still be well below
+their allocation.
+
+4
+
+Vol 19 No 1 April 2007
+
+II. WHAT ARE THE RISKS FROM
+CLIMATE CHANGE?
+For cities, perhaps the most obvious increased risk
+from climate change comes from the increased
+number and intensity of extreme weather events
+such as heavy rainstorms, cyclones and hurricanes.
+The cities most at risk are the cities where these
+events are already common – although there is
+some evidence that the geographic range of
+some extreme weather events is expanding. For
+any city, the scale of the risk from these extreme
+weather events is also much influenced by the
+quality of housing and infrastructure in that city
+and how well prepared the city’s population and
+key emergency services are. Generally, cities in
+high-income nations have had their risks much
+reduced as a result of decades of investment in
+housing and infrastructure.
+But the devastation of New Orleans by
+Hurricane Katrina in 2005 is an example of how,
+even in high-income nations, flood defences and
+well-resourced emergency services can be overwhelmed (and how the poorer citizens are the
+ones most affected). Although buildings and
+infrastructure are often built to withstand extreme
+weather events of an intensity judged to be very
+unlikely (i.e. once in 1,000 years), these can still
+be overwhelmed by the increased intensity of
+storms or of associated rainfall. In many cities,
+there is already evidence that what used to be a
+“once in a 100 year event” is becoming more
+common. In addition, cities are also vulnerable
+to any damage to the larger systems on which
+they depend – for instance, water supply and
+treatment, transport and electricity (and thus
+everything that depends on electricity, including
+lighting, pumping and communications).
+It is worth noting the scale of the devastation
+from some recent extreme weather events. The
+issue with these is not so much that “these are
+proof of climate change” (which is difficult to
+ascertain) but rather, proof of the vulnerability
+of cities and smaller settlements to extreme
+weather events – for example, the devastation
+brought by Hurricane Mitch to Central America
+in 1998 (thousands killed, millions homeless,
+billions of dollars worth of damage to already
+fragile economies);(4) or the devastation brought
+4. EM–DAT: The OFDA/CRED International Disaster Database,
+accessible at www.em-dat.net, Université Catholique de Louvain,
+Brussels, Belgium.
+
+EDITORIAL
+
+by flooding in and around Caracas in Venezuela
+in 1999 (around 30,000 people killed, some
+600,000 others seriously affected). The Tsunami
+in late 2004, which killed over 200,000 people
+and destroyed the homes and livelihoods of millions, was not related to climate change – but it
+was a demonstration of the vulnerability of so
+many urban (and rural) areas on the coast.(5)
+There are also many other risks from climate
+change that are less dramatic but nonetheless
+very serious, especially for low-income groups.
+Climate change will bring changes in rainfall
+patterns, both in terms of how much rain each area
+receives and its distribution over the year. Some
+areas will become wetter and others drier. Many
+cities will get less precipitation (and have more
+constrained freshwater sources). This implies
+a need to adapt water supply systems, as well
+as drainage systems, and this is discussed in
+the paper by Mike Muller, which focuses on
+how water management must change in subSaharan Africa. At least 14 African nations are
+already facing water stress or water scarcity,
+and many more are likely to join this list in
+the next 10–20 years. There is already a failure
+to manage water resources well in much of this
+region, independent of climate change. It is an
+area where around half the urban population
+already lack adequate provision for water and
+sanitation, although this is linked far more to
+inadequate governance than to water shortages.(6)
+Mike Muller’s paper also points to one of the
+difficulties in addressing this: the uncertainties
+within each locality of what changes are likely
+and the difficulties of incorporating this into
+water infrastructure investment planning, as the
+useful life of large water infrastructure is often
+measured in hundreds of years. Uncertainty
+about changing flood risk can lead to over-design,
+which is expensive, or under-design, with serious
+implications for risk.
+It is not yet possible to predict with any precision how climate change will affect each
+particular place or sector – whether by downscaling
+global climate change models or extrapolating
+from past experiences with climate variation. In
+addition, there are multiple interactions between
+
+different vulnerabilities – as discussed in the
+paper by Alex de Sherbinin, Andrew Schiller and
+Alex Pulsipher, which can produce a variety of
+unanticipated effects.
+Most cities will experience more heat waves
+and more problems with certain air pollutants; for
+larger, denser cities, the temperatures in central
+“heat islands” can be several degrees higher than
+in surrounding areas. Many tourist cities on the
+coast will have their “tourist assets” damaged
+because of flood damage to coastal reefs and
+loss of beaches. Warmer average temperatures
+will allow an expansion of the area where many
+“tropical” diseases can occur – for instance,
+where mosquitoes that spread malaria, dengue
+fever and filariasis can survive and breed.(7)
+Many city economies will suffer from decreasing possibilities for agriculture in their
+surrounds – both as local supplies diminish and
+as local farmers’ incomes (and thus spending
+on goods and services within the city) decrease.
+Generally “urban” issues and “rural” issues are
+discussed as if they were somehow separate. But
+a considerable part of the urban population in
+low- and middle-income nations derive their
+livelihoods from producing or selling goods and
+from providing services to rural producers or
+inhabitants. There are also the obvious rural–
+urban links for all industries that rely on crops or
+forest products as inputs. Thus support for rural
+populations and production systems to reduce
+their vulnerability to climate change is important
+for urban livelihoods and economies – just as
+protecting urban economies and livelihoods is
+important for so many rural households whose
+livelihoods depend on goods sold to urban populations or whose incomes are in part derived from
+household members working in urban areas.
+
+III. FLOODING
+Climate change has the potential to increase
+flooding risks in a number of ways: from the sea
+(higher sea levels and storm surges); from glacial
+lake outburst (a problem in countries such as
+Nepal); and from rainfall – for instance, heavier
+rainfall or rainfall that is more prolonged than
+in the past. For some cities and regions, climate
+
+5. See reference 4.
+6. UN–Habitat (2003), Water and Sanitation in the World’s Cities;
+Local Action for Global Goals, Earthscan Publications, London, 274
+pages.
+
+7. WHO (1992), Our Planet, Our Health, World Health Organization,
+Geneva.
+
+5
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+change is likely to reduce annual average rainfall –
+but this does not necessarily mean reduced risk
+of flooding, because the reduced rainfall may be
+more concentrated.
+For most of the cities with increased levels
+of flooding risk induced directly or indirectly
+by climate change, this comes on top of already
+serious deficiencies in provision for storm
+drainage. A recently published study by ActionAid, Unjust Waters, documents the lack of provision in six African cities for reducing flood
+risks or for managing floods when they occur.(8)
+Floods are already having very severe impacts on
+cities, smaller urban centres and rural areas in
+many African nations – for example, the floods
+in Mozambique in 2000, which included heavy
+flooding in Maputo; the floods in Algiers in
+2001 (with around 900 people killed and 45,000
+affected); heavy rains in East Africa in 2002 that
+brought floods and mudslides and forced tens
+of thousands to leave their homes in Rwanda,
+Kenya, Burundi, Tanzania and Uganda; and the
+very serious floods in Port Harcourt and in Addis
+Ababa in 2006.
+Discussions with residents in informal settlements in various African cities concluded that
+flooding is more frequent and intense, and often
+occurs in locations that previously were not at
+risk. It also emerged how little local government
+was doing to address these issues. There is an
+obvious need in most cities for far better drainage,
+including maintenance of existing drains –
+whether or not climate change is increasing risks
+from flooding.
+Concerning Asia, the massive floods in Dhaka
+have already been mentioned. Mumbai had very
+serious floods in 2005, which left over 1,000
+dead and massive damage to people’s homes,
+livelihoods and asset bases. Jakarta (and other
+areas in Indonesia) suffered very serious floods in
+February 2007. And of course, for every flood that
+is large enough to get noticed internationally,
+there are dozens or hundreds that do not get
+counted as a “disaster”, yet they kill and seriously
+injure many people and destroy or damage many
+people’s homes and assets.(9)
+8. A summary of this report will be published in the October 2007
+issue of Environment & Urbanization. The report can be obtained
+from ActionAid and is also downloadable from its website at www.
+actionaid.org.
+9. The October 2007 issue of Environment & Urbanization will
+include a case study of flood risks in unplanned settlements in
+Lusaka, Zambia, by Wilma S Nchito.
+
+6
+
+Vol 19 No 1 April 2007
+
+Urban areas always present some risk of
+flooding when rainfall occurs. Buildings, roads,
+infrastructure and other paved areas in cities
+prevent rainfall from infiltrating the soil – thus
+producing more run-off. In well-governed cities
+this is rarely a problem, because good provision
+for storm and surface drainage can easily be built
+into the urban fabric, along with complementary
+measures to protect from flooding – for instance,
+the use of parks and other areas of open space as
+places to safely accommodate flood waters from
+unusually serious storms. But in poorly governed
+cities, this does not happen – and it is common
+for buildings or infrastructure to be constructed
+that actually obstruct natural drainage channels.
+In rapidly growing cities, it is common for natural
+drainage channels to be built over. For example,
+the paper on Dhaka points out that buildings
+often encroach on or fill in drains, and many
+natural drains have been filled up to construct
+roads. Heavy and/or prolonged rainfall produces
+very large volumes of surface water in any city,
+which can so easily overwhelm drainage systems –
+especially if there is inadequate provision for
+drains or if the drains have not been maintained
+(for instance, many are full of silt or clogged with
+garbage).
+
+IV. THE URBAN POPULATION AT RISK IN
+COASTAL ZONES
+It is difficult to estimate with any precision
+how many people are at risk from the increased
+frequency and intensity of extreme weather
+events and the sea-level rise that climate change
+will bring. The paper by Gordon McGranahan,
+Deborah Balk and Bridget Anderson presents
+the first detailed analysis, based on data for each
+nation, of the number and proportion of urban
+dwellers (and total populations) living in the
+low elevation coastal zone (LECZ). This zone –
+the continuous area along the coast that is less
+than 10 metres above sea level – represents 2 per
+cent of the world’s land area but contains 10 per
+cent of its total population (i.e. over 600 million
+people) and 13 per cent of its urban population
+(representing around 360 million people). Almost
+two-thirds of the world’s large cities with more
+than 5 million inhabitants fall at least partly
+within this zone. Low-income and lower-middle
+income nations have a higher proportion of their
+urban population in this zone than high-income
+
+EDITORIAL
+
+nations. The least-developed nations, on average,
+have a higher proportion of their total population
+in this zone than high-income nations; they also
+have nearly twice the proportion of their urban
+population in this zone, compared to high-income
+nations. Figures 1 and 2 show the10 nations with
+the largest urban populations and those with the
+largest proportion of their urban population in
+this zone.
+Obviously, only a proportion of those within
+this zone are at risk from the sea-level rises
+that are likely within the next 30–50 years.
+Estimates for sea-level rise vary between 18 and
+59 centimetres by the end of the twenty-first
+century; this will certainly multiply the number
+of people flooded by storm surges. One estimate
+suggested that some 10 million people are currently affected each year by coastal flooding
+and that this number will increase under all
+the climate change scenarios.(10) The problems
+with coastal flooding would obviously be much
+more serious if certain potentially catastrophic
+events, whose probability is uncertain, were to
+occur – for instance, the accelerated melting of
+10. Nicholls R J (2004), “Coastal flooding and wetland loss in the
+21st century: changes under the SRES climate and socioeconomic
+scenarios”, Global Environmental Change Vol 14, No 1, pages
+69–86.
+
+Greenland’s ice sheet or the collapse of the west
+Antarctic ice sheet.
+The paper by Gordon McGranahan, Deborah
+Balk and Bridget Anderson also notes how
+there appears to be increasing population concentrations in low elevation coastal zones in
+most nations. China provides the most dramatic
+example, as it is the nation with the largest
+number of urban and rural dwellers in the low
+elevation coastal zone and it still has a very
+strong trend towards increasing population concentration in this zone. Increasing trade and
+market-driven movements, often supported by
+government incentives, are still attracting people
+to the coast. The coastal provinces of China,
+for example, experienced a net in-migration of
+about 17 million people between 1995 and 2000,
+creating pressures in an already crowded coastal
+zone.
+
+V. WHO IS MOST AT RISK?
+In general, the people most at risk from climate
+change are those living in affected areas who:
+• are least able to avoid the direct or indirect
+impacts (e.g. by having good quality homes
+
+FIGURE 1
+
+FIGURE 2
+
+Nations with the largest urban
+populations in the Low Elevation
+Coastal Zone (LECZ)
+
+Nations with the highest proportion of their
+urban populations in the Low Elevation
+Coastal Zone (LECZ)
+
+NOTE: In Figure 2, countries with an urban population of fewer than 100,000 were excluded from the list.
+SOURCE: These figures were prepared by Gordon McGranahan, Deborah Balk and Bridget Anderson from the
+GRUMP database; see their paper for more details of the methodology and the source.
+
+7
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+and drainage systems that prevent flooding;
+by moving to places with less risk; or by
+changing jobs if climate change threatens
+their livelihoods);
+• are likely to be most affected by them (for
+instance, infants and older groups less able to
+cope with heat waves); and
+• are least able to cope with the illness, injury,
+premature death or loss of income, livelihood
+or property caused by the impacts.
+Generally, wealth allows individuals and
+households to reduce these risks – for instance,
+by having safer housing, choosing safer jobs or
+locations to live in, and protecting their wealth
+by insuring assets that are at risk. Also, having
+assets that help with recovery. Low-income
+groups have far less scope to reduce the risks and
+many live in the areas most at risk. Indeed, for
+most cities in Africa, Asia and Latin America, lowincome groups not only live in settlements with
+the worst quality housing and least provision
+for drainage but also in the districts most at risk
+from floods and landslides. The more dangerous
+sites are often the only sites where lower-income
+groups can find housing they can afford or can
+build their own homes.(11)
+The quality of government – both at the
+national level and, as crucially, at the local
+(district or municipal) level – also has a very large
+influence on the level of risk from climate change
+faced by those with limited incomes or assets. For
+instance, the quality of government influences
+the quality of provision for infrastructure (which
+should limit risks of flooding for the whole city
+area, not just for the wealthier areas), for disaster
+preparedness (including warnings, measures
+taken to limit damage and, if needed, good provision to help people move to safer areas quickly)
+and for disaster response (for example, rescue
+services and appropriate emergency and health
+care services and programmes, to help those who
+lost their homes and livelihoods to rebuild these).
+The potential “co-benefits” from investments to
+improve living conditions and to reduce risks
+from climate change are obvious. However, much
+current city development increases risks from
+climate change – for instance, by not preventing
+new development on areas at risk of flooding
+11. Hardoy, Jorge E, Diana Mitlin and David Satterthwaite (2001),
+Environmental Problems in an Urbanizing World: Finding Solutions
+for Cities in Africa, Asia and Latin America, Earthscan Publications,
+London, 448 pages.
+
+8
+
+Vol 19 No 1 April 2007
+
+(and not providing alternative, safer sites for lowincome groups), and by not protecting areas that
+should be left undeveloped because these help
+buffer flooding risks (for example, wetlands).
+Climate will never be the main driver of urban
+growth but the drivers of urban growth have to
+be adjusted to make them take account of climate
+change risks, as well as better address the needs of
+low-income groups. This will not be done by the
+market, and can only be done by governments
+working with, and accountable to, those who are
+most at risk.
+But how is this possible when most local
+governments are weak and ineffective – and often
+refuse to allow any public services or investments
+in informal/illegal settlements, even when these
+house one-third to one-half of the entire city’s
+population and workforce. Christine Wamsler’s
+paper gives a clear indication of the difficulties in
+getting appropriate risk reduction action for
+lower-income groups in any city. Drawing on
+interviews and discussions with people living
+in 15 disaster-prone “slum” communities in
+El Salvador and with local organizations, these
+difficulties became apparent. Low-income households recognized that flooding and landslides
+were the most serious risks to their lives
+and livelihoods, although earthquakes and
+windstorms, the lack of job opportunities and
+water provision, and insecurity due to violent
+juvenile crimes were also highlighted. These
+households also invested in risk reduction and,
+on average, spent 9 per cent of their incomes
+doing so. Many took measures to lower risks –
+for instance, diversifying their livelihoods, or
+having easily sold assets should a disaster occur.
+Remittances from family members working
+abroad were important for many families, especially in providing support for recovery after a
+disaster. But a complex range of issues limits their
+effectiveness – for instance, the individualistic
+nature of households’ investments, the lack of
+representative community organizations through
+which to design and implement settlementwide measures, and the lack of support from
+government agencies (most residents viewed
+local and national governments as unhelpful or
+even a hindrance to their efforts). Meanwhile,
+most of the institutions that supported social
+housing and housing finance initiatives – local
+and international NGOs, government agencies
+– did not consider risk reduction in detail.
+Although their programmes usually supported
+
+EDITORIAL
+
+safer houses, which reduced risks in the event of
+a disaster, they did nothing to support insurance
+or to enhance family or community capacity for
+recovery. There is a need to support the capacity
+to work collectively, so that each household’s
+individual efforts contribute to community-wide
+risk reduction (individual investments can often
+increase risks for others); there is also a need for
+local governments that can be trusted and, often,
+good professional advice on the cheapest ways to
+secure and protect homes.
+
+VI. WHY CITIES DEVELOP ON RISKY SITES
+Many cities are located on dangerous sites with
+regard to risks from storms and floods. This
+took place completely independently of climate
+change – but climate change has increased the
+level of risk and the number of people at risk. There
+are four main reasons why so many cities are on
+dangerous sites. The first is that these locations
+were attractive to those who originally founded
+and developed the city – for instance, because of
+a good river or sea harbour, or a strategic location
+with regard to trade or territorial control, or
+a ready supply of fresh water, or a fertile delta.
+Most of the world’s major cities are on the coast
+or beside major rivers because they were already
+important urban centres before railways and road
+and air transport changed transport systems.
+Most relied on river or sea ports as their main
+transport and communication link with other
+places – and, of course, ocean transport is still a
+key part of the increasingly globalized economy.
+The second reason is that the original city
+site was often safe but the city has now outgrown this site and expanded onto land that
+is at risk – for example onto floodplains or on
+unstable hillsides or mountains.(12) The third
+reason is that once a city has developed, it rarely
+disappears, even if it experiences some disastrous
+flood or earthquake – because there are too many
+individuals, enterprises and institutions with
+an interest in that city’s economy. The fourth
+reason is that in most cities at risk from floods,
+the wealthier groups and most formal enterprises
+do not face serious risks.
+The spatial distribution of urban populations in any nation is not the result of any
+
+12. See reference 11.
+
+careful plan to guide urban expansion to “safe”
+sites. The main driver of city expansion (or
+stagnation or contraction) is where new or
+expanding profit-seeking enterprises choose to
+concentrate (or avoid). This is also largely true
+for how each individual urban centre develops
+– as the localities or districts within and around
+the urban centre with the most rapidly growing
+populations are associated with where new or
+expanding economic activities concentrate.
+However, the physical growth of the urban
+centre is also influenced by where lower-income
+groups can (or cannot) get accommodation or
+land on which to build housing.(13) Attempts by
+governments to change the spatial distribution
+of their urban populations or of the economic
+activities that underpin urban development can
+impose high economic costs – as this undermines
+the economic success of enterprises. Large public
+investments in infrastructure and expensive
+financial incentives in locations judged to be
+“desirable” by governments may fail to attract
+much investment; or the locations that get such
+preferential support are more determined by the
+political power of the politicians that represent
+them than by any potential to attract new
+investment – a problem that is also evident in
+high-income nations.
+So in seeking to understand the links between city development and risk from climate
+change, one of the key issues is – to what extent
+are profit-seeking enterprises influenced in their
+choice of location by climate change-related
+risks? Obviously, private enterprises will not generally invest in sites that are risky – unless the
+risk can be reduced by insurance, or the risk does
+not actually threaten their production (in most
+cities on risky sites, it is particular geographic
+areas and particular population groups – usually
+low-income groups – that are most at risk).(14)
+In addition, if risks from climate change are
+seen as distant threats that may affect city sites
+20 or 50 or more years in the future, then this
+will not provide much discouragement to invest,
+especially in successful cities. Dhaka, Mumbai
+and Shanghai have attracted much private
+investment despite their vulnerability to storms
+and sea-level rise.
+13. See the paper in this issue by Haroldo Torres, Humberto Alves
+and Maria Aparecida de Oliveira.
+14. See reference 11.
+
+9
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+But larger companies and corporations also
+have far more possibilities to move when risk
+levels increase – in ways that most individuals,
+households and local enterprises do not. It is
+possible to envisage a trend in new investments
+by larger companies and corporations away from
+cities and city sites most at risk from floods and
+storms, which will hardly affect their operations.
+They have long been adept at shifting production
+to locations where profits are maximized, and it
+is easy for them to factor in risks from climate
+change. But it is difficult to conceive of how many
+of the largest and most successful coastal cities
+that are most at risk from storms and sea-level rise
+will manage. As papers in this issue make clear,
+cities such as Mumbai, Shanghai and Dhaka are
+very vulnerable to sea-level rise. All are very large
+(each has well over 10 million inhabitants), all
+have had considerable economic success in the
+last few decades, all are very important to their
+nations’ economies and cultures, all concentrate
+very large investments and economic interests.
+So what long-term perspectives can guide
+settlement/urban development away from
+the urban centres or urban zones most at risk
+from storms and floods, without threatening a
+nation’s economic success? One of the most important factors is to remove a key constraint on
+new investments away from cities on the coast,
+namely the weakness of local governments in
+urban centres or zones in less risky locations.
+More competent and effective city and municipal
+governments in urban centres or zones outside the more risky locations will allow these
+locations to compete for new investments – and
+this has been a factor in developing less primate
+city-dominated urban systems in many middleincome nations. Of the many new economic
+activities currently concentrating in coastal locations at risk from storms and sea-level rise, a
+significant proportion do not require a coastal
+location, but are concentrating there because
+of other supporting factors – for instance, good
+infrastructure and services and easy access to
+government (perhaps an important source of
+business). This is obviously far more amenable to
+change than where businesses (and workforces)
+concentrate on coasts because of (for instance)
+port activities, fishing and coastal tourism. It is
+also likely that insurance cover will influence
+spatial location for both businesses and home
+owners that can afford it, as the cost of insurance rises in locations where the frequency and
+
+10
+
+Vol 19 No 1 April 2007
+
+intensity of storms and floods is increasing or
+likely to increase; it may be that insurance cover
+will not be available in increasing numbers of
+coastal locations.
+There is also the dramatic difference in the
+speed at which climate change is changing risk
+maps and the speed of adaptation. The speed at
+which city systems change to reflect the new “risk
+map” from climate change is likely to be slow in
+relation to how rapidly this “risk map” is likely
+to change – especially if no global agreements are
+in place within the next few years to halt and
+then reduce global greenhouse gas emissions.
+Part of this is because powerful economic and
+political interests want “their city” to continue.
+Large cities, once developed, acquire a capacity
+to remain as cities, even as their economic base
+declines. There are surprisingly few “great cities”
+from history that aren’t still cities (even if their
+relative importance may have changed). Did the
+obvious and well-documented risk that New
+Orleans faced before Katrina actually cause many
+enterprises to move? New Orleans also faced an
+additional difficulty in that a high proportion of
+its economic base is related to its historic city and
+its rich culture, and this cannot be moved. Venice
+is at high risk from sea-level rise and storms – but
+Venice cannot be “moved”. Nor can Alexandria.
+Many of the sites most at risk from sea-level rise
+in many coastal cities are also among the most
+desirable residential areas and areas for popular
+recreation.
+There is also the issue of how the political
+economy of any city influences what is done and
+what is likely to be done to reduce risks from
+climate change-related impacts. A city as wealthy
+and successful as Mumbai has resources that
+could have done far more to reduce the risks
+from flooding (better drains, better garbage collection systems, ensuring poorer groups could
+find land for housing that was not on land at
+high risk from flooding, etc.). Why this was not
+done needs exploring. In part, it is because most
+of the risks from flooding are borne by lowerincome groups. But cities such as Mumbai can
+invest in protection against floods and sea-level
+rise in ways that have strong “co-benefits” with
+development, as this also improves the homes
+and neighbourhoods of the millions of lowincome households. They can greatly reduce
+risks by ensuring that low-income households
+can find and afford housing or land on which
+they can build on sites less at risk from flooding.
+
+EDITORIAL
+
+15. Patel, Sheela, Celine d’Cruz and Sundar Burra (2002), “Beyond
+evictions in a global city; people-managed resettlement in
+Mumbai”, Environment & Urbanization Vol 14, No 1, April,
+pages 159–172.
+
+also implementing many upgrading and newhouse developments. Some city and national
+governments have recognized that these can be
+powerful and very effective partners in improving
+living conditions.(17) There are also many other
+civil society organizations that can help ensure
+that city planning and investment are less antipoor and anti-environment. The institutional
+profile in this issue of the Urban Resource Centre
+(URC) in Karachi by Arif Hasan has considerable relevance to this. It shows the influence
+on urban planning in Karachi of a small NGO
+founded by teachers, professionals, students,
+activists and community organizations from
+low-income settlements. The URC’s influence
+lies in the creation of an information base about
+Karachi’s development on which everyone can
+draw, combined with research and analysis of
+government plans (and their implications for
+Karachi’s citizens), advocacy, mobilization of
+communities, and drawing key government staff
+and the media into discussions. The network that
+the URC has built has successfully challenged
+many government plans that are ineffective,
+over-expensive and anti-poor, and it has devised
+and promoted alternatives. It shows how the
+questioning of government plans in an informed
+manner by a large number of interest groups,
+community organizations, NGOs, academics,
+political parties and the media can force the government to listen and make modifications to its
+plans, projects and investments. Comparable
+urban resource centres have also been set up in
+other cities in Pakistan and in other nations.
+Another paper in this issue that is of great
+relevance to reducing risks from climate change
+(and other hazards), but that is not actually on
+climate change, is the paper by Edésio Fernandes
+on implementing the urban reform agenda in
+Brazil. This describes the urban reform process in
+Brazil and its legal and institutional innovations
+since the promulgation of the 1988 Federal
+Constitution. These include the 2001 City Statute
+and the creation of the Ministry of Cities and
+the National Council of Cities in 2003. As the
+
+16. Menegat, Rualdo (2002), “Participatory democracy and
+sustainable development: integrated urban environmental
+management in Porto Alegre, Brazil”, Environment & Urbanization
+Vol 14, No 2, October, pages 181–206; also Souza, Celina (2001),
+“Participatory budgeting in Brazilian cities: limits and possibilities
+in building democratic institutions”, Environment & Urbanization
+Vol 13, No 1, April, pages 159–184; and Cabannes, Yves (2004),
+“Participatory budgeting: a significant contribution to participatory
+democracy”, Environment & Urbanization Vol 16, No 1, April,
+pages 27–46.
+
+17. See case studies of federations in the Philippines, India and
+Zimbabwe in Environment & Urbanization Vol 13, No 2 (October
+2001); see also Weru, Jane (2004), “Community federations and
+city upgrading: the work of Pamoja Trust and Muungano in Kenya”,
+Environment & Urbanization Vol 16, No 1, April, pages 47–62. The
+October 2007 issue will include a profile of the Malawi Homeless
+People’s Federation. See also www.sdinet.org for up-to-date
+profiles of the different federations.
+
+Or the city can ensure that its investments do
+exactly the opposite, as informal settlements at
+risk of flooding are bulldozed and no measures
+are taken to provide their inhabitants with alternative housing. Or if some provision is made for
+re-housing, this further impoverishes those who
+are forced to move, as they are dumped in distant
+locations, far from their sources of livelihood and
+social networks. As the risks facing so many major
+coastal cities in Africa, Asia, and Latin America
+and the Caribbean become evident, one of the
+greatest worries is that this will draw attention
+and investment away from the unfulfilled development needs.
+So if city and national governments and
+international agencies do begin to factor climate change-related risk reduction into their
+urban policies, how can this avoid further disadvantaging the urban poor? How can the
+interests of those who live in the informal
+settlements and work in the informal economy
+come to represent a sufficiently potent political
+force to get risk reduction investments that
+benefit them? How can the inhabitants of
+informal settlements most at risk from flooding
+get to influence “solutions”? There are examples
+of how this can be done. For instance, there are
+precedents for the relocation of those living in
+informal settlements on risky sites, in which the
+inhabitants of these settlements and their own
+representative organizations were fully involved
+in where, when and how they were moved.(15)
+There are also the political innovations that
+have given low-income groups more influence
+over public investment decisions and brought
+greater accountability to them in how government resources are used.(16) There are also
+many examples of federations formed by groups
+of slum and shack dwellers or homeless groups
+that are pushing pro-poor political changes and
+
+11
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+author notes, while recognizing the limitations
+in these innovations, and the many issues that
+still need to be addressed, this is an important
+example of a national government striving to
+provide city governments with the legal and
+institutional base they need to be more effective
+and more accountable to their citizens. Without
+this, it will not be possible to reverse the spatial
+and social exclusion that has characterized most
+urban development in Brazil in recent decades.
+Nor will it be possible for most city governments
+to be effective in reducing risks associated with
+climate change in ways that also benefit poorer
+groups.
+
+VII. THE UNFAIRNESS WITH REGARD TO
+WHO CAUSES THE PROBLEMS AND WHO
+IS MOST AFFECTED
+There is a profound unfairness globally between
+those who cause climate change and those
+who are most at risk from its effects. This can
+be seen in three aspects. First, with regard to
+people, it is the high-consumption lifestyles of
+the wealthy (and the production systems that
+profit from their consumption) that drive climate
+change;(18) it is mostly low-income groups in
+low- and middle-income nations with negligible
+contributions to climate change that are most
+at risk from its impacts. Second, with regard to
+nations, it is within the wealthiest nations that
+most greenhouse gases have been emitted but
+it is mostly low- and middle-income nations
+that are bearing and will bear most of the costs.
+Third, with regard to cities, larger companies and
+corporations can easily adjust to new patterns of
+risk induced by climate change and can move
+their offices and production facilities away
+from cities at risk. But cities cannot move. And
+all cities have within them the homes, cultural
+and financial assets, and livelihoods of their
+inhabitants, much of which cannot be moved.
+
+18. This statement might be considered to understate the role
+of industry or particular sectors such as fossil fuel-powered
+electricity generation but their production (and the climate change
+implications of their production) are underpinned by consumer
+demand, much of it from those with high-consumption lifestyles.
+It might also be considered to understate the contributions of
+middle-income groups in high-income nations, but these are
+among the wealthy if the whole planet’s population is considered.
+
+12
+
+Vol 19 No 1 April 2007
+
+There are figures to show the dramatic differences between nations in the average contributions per person to greenhouse gas emissions,
+and some were noted above – for example, the
+80-fold difference between that in the USA and
+many low-income nations. But these actually
+understate the scale of these differentials. Greenhouse gas emissions in high-income nations are
+kept down by the fact that they import many of
+the energy-intensive goods used or consumed
+by their citizens and businesses. In addition,
+a concentration on comparing “averages” for
+nations obscures just how much the wealthy
+groups drive the problem. The differentials in
+greenhouse gas emissions per person between
+rich and poor groups can be much larger than
+the differentials between rich and poor nations.
+For instance, the greenhouse gas emissions
+generated as a result of the high-consumption
+lifestyle of someone like Donald Trump are likely
+to be hundreds of thousands, or even millions,
+of times more than that generated by many
+low-income rural and urban households in lowincome nations.
+The very survival of some small island
+nations and low-income nations is in doubt as
+much of their land area is at risk from sea-level
+rise, yet their contributions to global greenhouse
+emissions have been very small. There are also
+tens of millions of people in low- and middleincome nations whose homes and livelihoods
+are at risk from sea-level rise and storms, yet
+they have made very little contribution to global
+warming. With regard to cities, in economic
+terms, it may be easy to write off the cities most
+at risk from climate change, but what will this
+do to international relations? One wonders what
+new levels of violence and international terrorism will be generated as increasing numbers of
+people lose their homes, assets, livelihoods and
+cultural heritages to global warming – especially
+when the main causes of this global warming
+are strongly associated with the lifestyles of
+high-income groups in high-income nations,
+and the reasons for their losses is the failure of
+high-income nations to cut back their emissions?
+Would the US government oppose the Kyoto
+Protocol’s modest targets for emission reductions
+if Washington DC, New York and Los Angeles faced
+risks comparable to those facing Dhaka, Mumbai
+and Bangkok today as a result of greenhouse gas
+emissions the US had not generated?
+
+EDITORIAL
+
+VIII. THE NEED FOR ACTION
+The initial response to climate change by the
+scientific community was to focus on the need
+to reduce greenhouse gas emissions. It seemed
+wrong to focus on adaptation to the impacts of
+climate change because this was only needed
+if emissions were not reduced. It also seemed
+unfair in that most adaptation would have to be
+done in nations with very limited resources and
+very limited contributions to climate change. In
+addition, there are other pressing developmental
+needs, and thus the worry that focusing on
+adapting to climate change would draw attention
+and resources away from these.
+But the need to focus on adaptation has
+been much increased by the failure among highincome nations to act to reduce greenhouse gas
+emissions. There is also the worrying time lag
+between when emissions are reduced and when
+this reduces climate change; emissions already
+released will be driving climate change for the
+next 10–20 years, even if dramatic emissions
+reductions are achieved in the next few years.
+For sea-level rise, the time lag is even greater.
+So however unfair this is, action is still needed
+everywhere – to reduce emissions, to adapt
+to reduce risks. And action is needed in each
+locality, with actions that are tailored to the
+specifics of that locality – which means a need
+for local government to have the knowledge,
+capacity and legitimacy to act effectively. The
+earlier that action is taken to reduce greenhouse gas emissions and to adjust the drivers of
+urban development to contribute to reducing the
+vulnerability of settlements to climate change,
+the lower the costs.
+There are those who still argue that development needs are so pressing that any attention to
+climate change diverts attention and resources
+from more immediate needs – the billions of
+people who have difficulty meeting their food
+needs and who lack basic services. There is also
+the worry that any action on climate change
+will not only draw resources from more pressing
+immediate needs but also will be twisted by
+local, national and international interests to
+serve themselves. Building over-expensive and
+often ill-considered flood defences can generate
+very large profits. The risks of this happening
+are much enhanced where mechanisms of
+accountability to citizens and civil society for
+
+government investments, or loans taken to fund
+such investments, are weak. If the need to reduce
+greenhouse gas emissions were less pressing,
+there would be a strong case for saying that
+this was entirely the responsibility of the rich
+world. But one of the key determinants of future
+greenhouse gas emissions is how cities develop
+in the more prosperous low- and middle-income
+nations (which is also where most of the world’s
+population growth is being accommodated). Are
+the rapidly expanding and successful cities in
+China, India, Brazil, South Africa, etc. increasing
+or decreasing the dependence of middle- and
+upper-income groups on private car use? Are the
+houses and apartments favoured by middle- and
+upper-income groups increasing or decreasing
+the consumption of carbon-based fuels or
+electricity generated by the combustion of such
+fuels? Are enterprises in these cities successfully
+encouraged to invest in measures to reduce their
+direct and indirect contributions to greenhouse
+gas emissions? Here too, there are important
+potential co-benefits, as many measures to reduce
+carbon emissions can also reduce air pollution
+and greatly improve air quality. The precedents
+are there to show how much can be done(19) – but
+these precedents remain the exceptions, not the
+rule. In addition, to date, most of the discussion
+in relation to cities has been on reducing
+emissions, not on needed adaptation. The paper
+by Pierre Mukheibir and Gina Ziervogel discusses
+the development of a Municipal Adaptation
+Plan (MAP) for climate change for Cape Town,
+and the steps and methods needed to do this.
+This is also an example of how local adaptation
+needs a strong local information base and local
+governance systems that allow voice and influence to poorer groups.
+Adaptation plans must also bring benefits to
+the billion urban dwellers who currently live in
+very poor quality housing, in tenements, cheap
+boarding houses and illegal or informal settlements. These billion people include a large part
+of the population whose homes and livelihoods
+are most at risk from climate change. As Patricia
+Romero Lankao’s paper discusses, a technologydriven, market-led response to climate change
+does little for them. In addition, there are often
+
+19. The two issues of Environment & Urbanization published in
+2006 on ecological urbanization included many case studies
+showing these possibilities.
+
+13
+
+E N V I R O N M E N T & U R B A N I Z AT I O N
+
+pressing local concerns: it should be difficult politically to get serious action on reducing carbon
+emissions in a city where much of the population
+lacks provision for piped water, sanitation and
+drainage.
+But many local adaptation measures for
+climate change can also support better quality,
+more secure housing provided with sewers,
+drains and other measures to protect them from
+storms and floods. The kinds of changes needed
+in urban planning and governance to “climate
+proof” cities are often supportive of development
+goals. But as discussed already, they could also
+do the opposite – as plans and investments to
+cope with storms and sea-level rise forcibly clear
+the settlements that are currently on floodplains, or the informal settlements that are close
+to the coast. Most city governments in Africa,
+Asia and Latin America have not found ways to
+support low-income households in finding and
+moving to land on which they can develop their
+homes on safe, secure, well-located sites. Yet for
+many coastal cities, the need to achieve this will
+multiply if they are to adapt to climate change.
+So there is a clear urban agenda. But where
+is the evidence of national governments and
+international agencies responding to this? In
+most nations, national and state/provincial governments still concentrate most of the power
+and the control over public investments. Most
+international agencies and development banks
+reinforce the power of central governments, as
+their funding goes through central governments.
+Unfortunately, too many city-level policy makers
+see climate change as a global issue that is not
+their concern. In addition, too many climate
+change experts see urban change as a local issue
+that they do not need to understand, let alone
+address. It is within urban centres and urban
+governments that so much of the battle to prevent climate change from becoming a global
+catastrophe will be won or lost – at least for the
+human species. Yet when urban governments
+do try to respond, they receive little support.
+Hopefully this will change as the full import of
+the challenge becomes apparent. Since most of
+the growth in the world’s population over the
+next few decades will be in urban centres in
+low- and middle-income nations, this can be
+seen as an opportunity to plan and manage their
+expansion in ways that enhance their resilience
+(especially for their lower-income citizens) and
+support much lower greenhouse gas emissions
+
+14
+
+Vol 19 No 1 April 2007
+
+– rather than enhancing their vulnerability and
+increasing their greenhouse gas emissions (as
+seems to be the case at present).
+
+POSTSCRIPT
+A Royal Commission Report produced for the UK
+government on East Africa: Wishing “…to emphasize the
+importance of finding an answer to the problems which have
+been created by the rapidity with which urban areas have
+developed. We consider that in the past, too little attention
+has been paid by East African governments to the problems
+which arise from this development…”. A report presented
+by the Secretary of State to the UK Parliament, 1955.
+
+REFERENCES
+Cabannes, Yves (2004), “Participatory budgeting: a
+significant contribution to participatory democracy”, Environment & Urbanization Vol 16, No 1,
+April, pages 27–46.
+Environment & Urbanization Vol 13, No 2 (October
+2001).
+Environment & Urbanization Vol 18, Nos 1&2 (April and
+October 2006).
+Hardoy, Jorge E, Diana Mitlin and David Satterthwaite
+(2001), Environmental Problems in an Urbanizing
+World: Finding Solutions for Cities in Africa, Asia and
+Latin America, Earthscan Publications, London,
+448 pages.
+IPCC (2001), Climate Change 2001; Impacts, Adaptation
+and Vulnerability, Contribution of Working Group II to
+the Third Assessment Report of the Intergovernmental
+Panel on Climate Change, Cambridge University
+Press, Cambridge, 1,032 pages.
+Menegat, Rualdo (2002), “Participatory democracy
+and sustainable development: integrated urban
+environmental management in Porto Alegre,
+Brazil”, Environment & Urbanization Vol 14, No 2,
+October, pages 181–206.
+Nicholls R J (2004), “Coastal flooding and wetland
+loss in the 21st century: changes under the SRES
+climate and socioeconomic scenarios”, Global
+Environmental Change Vol 14, No 1, pages 69–86.
+Patel, Sheela, Celine d’Cruz and Sundar Burra (2002),
+“Beyond evictions in a global city; peoplemanaged resettlement in Mumbai”, Environment &
+Urbanization Vol 14, No 1, April, pages 159–172.
+Souza, Celina (2001), “Participatory budgeting in
+Brazilian cities: limits and possibilities in build-ing
+democratic institutions”, Environment & Urbanization Vol 13, No 1, April, pages 159–184.
+UN–Habitat (2003), Water and Sanitation in the World’s
+Cities; Local Action for Global Goals, Earthscan
+Publications, London, 274 pages.
+
+EDITORIAL
+Weru, Jane (2004), “Community federations and
+city upgrading: the work of Pamoja Trust and
+Muungano in Kenya”, Environment & Urbanization
+Vol 16, No 1, April, pages 47–62.
+WHO (1992), Our Planet, Our Health, World Health
+Organization, Geneva.
+
+www.actionaid.org.
+www.em-dat.net.
+www.grida.no/climate/ipcc/regional/index.htm.
+www.sdinet.org.
+www.worldbank.org/reference/.
+
+CLIMATE CHANGE 2007
+The 4th Assessment of the Intergovernmental Panel on Climate Change (IPCC)
+On 6 April 2007, the report Climate Change 2007: Impacts, Adaptation and Vulnerability will be released; this is IPCC
+Working Group II’s contribution to the Fourth Assessment Report. It includes chapters on assessments of future
+impacts and adaptation relating to industry, settlement and society, human health, freshwater resources and their
+management, and coastal systems and low-lying areas; it also has chapters on each of the world’s regions, and
+chapters on assessments of responses to impacts.
+The report of Working Group I, on The Physical Science Basis, was released on 2 February; the report of Working
+Group III, on Mitigation of Climate Change, will be released on 4 May 2007.
+For more details of these and other IPCC publications, see http://www.ipcc.ch/
+
+15
+
+

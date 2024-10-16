@@ -1,0 +1,624 @@
+References
+
+1. H. G. Reichle Jr. et al., J. Geophys. Res. 91, 10865
+(1986).
+2. P. J. Crutzen, et al., Nature 282, 253 (1979).
+3. J. P. Fishman, H. Reichle, J. Geophys. Res. 91, 14451
+(1986).
+4. P. Borrell et al., Atmos. Environ. 37, 2567 (2003).
+
+5. J.-F. Lamarque et al., Geophys. Res. Lett. 30, 1688
+(2003).
+6. D. P. Edwards et al., J. Geophys. Res. 108, 1029/
+2002JD002927 (2003).
+7. V. Ramanathan et al., Science 294, 2119 (2001).
+8. Y. J. Kaufman, D. Tanre, O. Boucher, Nature 419, 215
+(2002).
+9. T. Nakajima et al., Geophys. Res. Lett. 28, 1171
+(2001).
+10. A. Higurashi, T. Nakajima, Geophys. Res. Lett. 29,
+10.1029/2002GL015357 (2002).
+11. J. T. Houghton et al., Eds., Climate Change 2001: The
+Scientiﬁc Bases (Cambridge Univ. Press, Cambridge,
+2001), pp. 260 –263.
+12. G. Brasseur, J. J. Orlando, G. S. Tyndall, Eds., Atmospheric Chemistry and Global Change (Oxford Univ.
+Press, Oxford, 1999).
+13. J. Lelieveld, F. Dentener, J. Geophys. Res. 105, 3531
+(2000).
+14. P. Pochanart et al., Atmos. Environ. 36, 4235 (2002).
+15. World Health Organization (WHO), Update and Revision of the WHO Air Quality Guidelines for Europe.
+Ecotoxic Effects, Ozone Effects on Vegetation (European Center for Environment and Health, Bilthoven,
+Netherlands, 2000).
+16. R. C. Musselman, P. M. McCool, A. L. Lefohn, J. Air,
+Waste Manag. Assoc. 44, 1383 (1994).
+17. D. L. Jacob, J. A. Logan, P. P. Murti, Geophys. Res. Lett.
+26, 2175 (1999).
+18. D. Jaffe et al., J. Geophys. Res. 106, 7449 (2001).
+19. J. Haywood, O. Boucher, Rev. Geophys. 38, 513
+(2000).
+20. O. Wild, H. Akimoto, J. Geophys. Res. 106, 27729
+(2001).
+21. T. Holloway, A. M. Fiore, M. G. Hastings, Environ. Sci.
+Technol., in press.
+22. D. D. Parrish et al., J. Geophys. Res. 97, 15883 (1992).
+23. D. Jaffe et al., Geophys. Res. Lett. 26, 711 (1999).
+24. D. Jaffe et al., Atmos. Environ. 37, 391 (2003).
+25. T. K. Bernstein, S. Karlsdottir, D. A. Jaffe, Geophys.
+Res. Lett. 26, 2171 (1999).
+26. K. Wilkening, L. Barrie, M. Engle, Science 290, 65
+(2000).
+27. R. B. Husar et al., J. Geophys. Res. 106, 18317 (2001).
+28. I. Uno et al., J. Geophys. Res. 106, 18331 (2001).
+29. R. G. Derwent et al., Atmos. Environ. 32, 145 (1998).
+
+30. Q. Li et al., J. Geophys. Res. 107, 10.1029/
+2001JD001422 (2002).
+31. A. Stohl, T. Trickl, J. Geophys. Res. 104, 30445 (1999).
+32. A. Stohl et al., J. Geophys. Res. 106, 1029/
+2001JD001396 (2002).
+33. R. E. Newell, M. J. Evans, Geophys. Res. Lett. 27, 2509
+(2000).
+34. P. Pochanart et al., J. Geophys. Res. 108, 10.1029/
+2001JD001412 (2003).
+35. P. Bergamaschi et al., J. Geophys. Res. 103, 8227
+(1998).
+36. T. Roeckman et al., Chemosphere Global Change Sci.
+1, 219 (1999).
+37. D. Brunner et al., J. Geophys. Res. 106, 27673 (2001).
+38. A. Stohl et al., J. Geophys. Res. 106, 27757 (2001).
+39. D. P. Jeker et al., J. Geophys. Res. 105, 3679 (2000).
+40. M. Naja, H. Akimoto, J. Staehelin, J. Geophys. Res.
+108, 10.1029/2002JD002477 (2003).
+41. U.S. Environmental Protection Agency (EPA), National Air Pollutant Emission Trends, 1900-1998 (Report
+EPA-454/R-00-002, EPA, Research Triangle Park, NC,
+1999).
+42. Co-operative Programme for Monitoring and Evaluation of the Long-Range Transmission of Air Pollutants
+in Europe (EMEP), “Emission data reported to UNECP/
+EMEP: Evaluation of the spatial distribution of emissions, MSC_W” (status report 2001 by V. Vestreng,
+Norwegian Meteorological Institute, Oslo, Norway,
+2001).
+43. Organization for Economic Cooperation and Development (OECD), OECD Environmental Data Compendium 1993 (OECD, Paris, France, 1993).
+44. N. Kato, H. Akimoto, Atmos. Environ. 26, 2997
+(1992).
+45. D. Streets et al., Water Air Soil Pollution 130, 187
+(2001).
+46. Z. Klimont et al., Water Air Soil Pollution 130, 193
+(2001).
+47. United Nations, World Urbanization Prospects, the
+2001 Revision (United Nations, Population Division,
+Department of Economic and Social Affairs, New
+York, 2002).
+48. L. T. Molina, M. J. Molina, Air Quality in the Mexico
+Megacity (Kluwer Academic, Dortrecht, Netherlands,
+2002).
+
+Modern Global Climate Change
+Thomas R. Karl1 and Kevin E. Trenberth2
+Modern climate change is dominated by human inﬂuences, which are now
+large enough to exceed the bounds of natural variability. The main source of
+global climate change is human-induced changes in atmospheric composition.
+These perturbations primarily result from emissions associated with energy
+use, but on local and regional scales, urbanization and land use changes are
+also important. Although there has been progress in monitoring and understanding climate change, there remain many scientiﬁc, technical, and institutional impediments to precisely planning for, adapting to, and mitigating the
+effects of climate change. There is still considerable uncertainty about the
+rates of change that can be expected, but it is clear that these changes will be
+increasingly manifested in important and tangible ways, such as changes in
+extremes of temperature and precipitation, decreases in seasonal and perennial snow and ice extent, and sea level rise. Anthropogenic climate change is
+now likely to continue for many centuries. We are venturing into the unknown
+with climate, and its associated impacts could be quite disruptive.
+The atmosphere is a global commons that
+responds to many types of emissions into it,
+as well as to changes in the surface beneath
+it. As human balloon flights around the
+
+world illustrate, the air over a specific location is typically halfway around the
+world a week later, making climate change
+a truly global issue.
+
+Planet Earth is habitable because of its
+location relative to the sun and because of the
+natural greenhouse effect of its atmosphere.
+Various atmospheric gases contribute to the
+greenhouse effect, whose impact in clear
+skies is ⬃60% from water vapor, ⬃25% from
+carbon dioxide, ⬃8% from ozone, and the
+rest from trace gases including methane and
+nitrous oxide (1). Clouds also have a greenhouse effect. On average, the energy from the
+sun received at the top of the Earth’s atmosphere amounts to 175 petawatts (PW) (or
+175 quadrillion watts), of which ⬃31% is
+
+Downloaded from https://www.science.org at FAIRFIELD UNIVERSITY on October 15, 2024
+
+South America, because of the economic growth
+there, would make global air quality more of an
+issue in the Southern Hemisphere, a region
+where only biomass burning has been considered
+important so far.
+Finally, the importance of megacities as
+sources of regional and global pollution is worth
+noting. Megacities may be defined as metropolitan areas with over 10 million inhabitants, although there is no precise accepted threshold,
+and population estimates are not necessarily
+based on the same areas of reference. In 2001,
+there were 17 megacities according to United
+Nations statistics (47). With rapid growth of the
+world’s population, particularly in developing
+countries, and continuing industrialization and
+migration toward urban centers, megacities are
+becoming more important sources of air pollution from associated mobile and stationary
+sources. Air quality in megacities is thus of great
+concern, as illustrated by a study in Mexico City
+(48). Although the health effects of air pollution
+on the inhabitants of megacities are a serious
+social problem, its regional and global environmental consequences are also of great concern.
+Therefore, local, regional, and global air-quality
+issues, and regional and global environmental
+impacts, including climate change, should be
+viewed in an integrated manner.
+
+National Oceanic and Atmospheric Administration,
+National Climatic Data Center, Satellite and Information Services, 151 Patton Avenue, Asheville, NC,
+28801–5001, USA. 2National Center for Atmospheric
+Research, Post Ofﬁce Box 3000, Boulder, CO 80307,
+USA.
+
+1
+
+*To whom correspondence should be addressed. Email: Thomas.R.Karl@noaa.gov
+
+www.sciencemag.org SCIENCE VOL 302 5 DECEMBER 2003
+
+1719
+
+1720
+
+5 DECEMBER 2003 VOL 302 SCIENCE www.sciencemag.org
+
+Downloaded from https://www.science.org at FAIRFIELD UNIVERSITY on October 15, 2024
+
+reflected by clouds and from the surface. The
+been since 1965 (4) (Fig. 1). The greenhouse
+Human activities also have a large-scale
+rest (120 PW) is absorbed by the atmosphere,
+gases trap outgoing radiation from the Earth
+impact on the land surface. Changes in landland, or ocean and ultimately emitted back to
+to space, creating a warming of the planet.
+use through urbanization and agricultural
+space as infrared radiation (1). Over the past
+Emissions into the atmosphere from fuel
+practices, although not global, are often most
+century, infrequent volcanic eruptions of gasburning further result in gases that are oxidized
+pronounced where people live, work, and
+es and debris into the atmosphere have sigto become highly reflective micron-sized aerogrow food, and are part of the human impact
+nificantly perturbed these energy flows; howsols, such as sulfate, and strongly absorbing
+on climate (6, 7). Large-scale deforestation
+ever, the resulting cooling has lasted for only
+aerosols, such as black carbon or soot. Aerosols
+and desertification in Amazonia and the Saa few years (2). Inferred changes in total solar
+are rapidly (within a week or less) removed
+hel, respectively, are two instances where
+irradiance appear to have increased global
+from the atmosphere through the natural hydroevidence suggests there is likely to be human
+mean temperatures by perhaps as much as
+logical cycle and dry deposition as they travel
+influence on regional climate (8–10). In gen0.2°C in the first half of the 20th century, but
+away from their source. Nonetheless, atmoeral, city climates differ from those in surmeasured changes in the past 25 years are
+spheric concentrations can substantially exceed
+rounding rural green areas, because of the
+small (2). Over the past 50 years, human
+background conditions in large areas around
+“concrete jungle” and its effects on heat reinfluences have been the dominant detectable
+and downwind of the emission sources. Detention, runoff, and pollution, resulting in
+influence on climate change (2). The followpending on their reflectivity and absorption
+urban heat islands.
+ing briefly describes the human influences on
+properties, geometry and size distribution,
+There is no doubt that the composition of
+climate, the resulting temperature and precipand interactions with clouds and moisture,
+the atmosphere is changing because of human
+itation changes, the time scale of responses,
+these particulates can lead to either net
+activities, and today greenhouse gases are the
+some important processes involved, the use
+cooling, as for sulfate aerosols, or net heatlargest human influence on global climate
+of climate models for assessing the past and
+ing, as for black carbon. Importantly, sul(2). Recent greenhouse gas emission trends in
+making projections into the future,
+the United States are upward (11), as
+and the need for better observational
+are global emissions trends, with inand information systems.
+creases between 0.5 and 1% per year
+The main way in which humans
+over the past few decades (12). Conalter global climate is by interference
+centrations of both reflective and
+with the natural flows of energy
+nonreflective aerosols are also estithrough changes in atmospheric
+mated to be increasing (2). Because
+composition, not by the actual genradiative forcing from greenhouse
+eration of heat in energy usage. On a
+gases dominates over the net cooling
+global scale, even a 1% change in the
+forcings from aerosols (2), the popenergy flows, which is the order of
+ular term for the human influence on
+the estimated change to date (2),
+global climate is “global warming,”
+dominates all other direct influences
+although it really means global heathumans have on climate. For examing, of which the observed global
+ple, an energy output of just one PW
+temperature increase is only one conis equivalent to that of a million
+sequence (13) (Fig. 1). Already it is
+power stations of 1000-MW capaciestimated that the Earth’s climate has
+ty, among the largest in the world.
+exceeded the bounds of natural variTotal human energy use is about a
+ability (2), and this has been the case
+Fig. 1. Time series of departures from the 1961 to 1990 base
+period for an annual mean global temperature of 14.0°C (bars)
+factor of 9000 less than the natural
+since about 1980.
+and for a carbon dioxide mean of 334 ppmv (solid curve) during
+flow (3).
+Surface moisture, if available
+the base period, using data from ice cores and (after 1958) from
+Global changes in atmospheric
+(as it always is over the oceans),
+Mauna Loa (4). The global average surface heating approxicomposition occur from anthropoeffectively acts as the “air condimates that of carbon dioxide increases, because of the cangenic emissions of greenhouse gases,
+tioner” of the surface, as heat used
+cellation of aerosols and other greenhouse gas effects, but
+such as carbon dioxide that results
+for evaporation moistens the air
+this does not apply regionally (2). Many other factors (such
+as the effects of volcanic eruptions and solar irradiance
+from the burning of fossil fuels and
+rather than warming it. Therefore,
+changes) are also important.
+methane and nitrous oxide from mulanother consequence of global
+tiple human activities. Because these
+heating of the lower troposphere is
+gases have long (decades to centuaccelerated land-surface drying and
+ries) atmospheric lifetimes, the result is an
+fate aerosols affect climate directly by remore atmospheric water vapor (the domiaccumulation in the atmosphere and a buildflecting solar radiation and indirectly by
+nant greenhouse gas). Accelerated drying
+up in concentrations that are clearly shown
+changing the reflective properties of clouds
+increases the incidence and severity of
+both by instrumental observations of air samand their lifetimes. Understanding their
+droughts, whereas additional atmospheric
+ples since 1958 and in bubbles of air trapped
+precise impact has been hampered by our
+water vapor increases the risk of heavy
+in ice cores before then. Moreover, these
+inability to measure these aerosols directly,
+precipitation events (14). Basic theory
+gases are well distributed in the atmosphere
+as well as by their spatial inhomogeneity
+(15), climate model simulations (2), and
+across the globe, simplifying a global moniand rapid changes in time. Large-scale
+empirical evidence (Fig. 2) all confirm that
+toring strategy. Carbon dioxide has increased
+measurements of aerosol patterns have
+warmer climates, owing to increased water
+31% since preindustrial times, from 280 parts
+been inferred through emission data, spevapor, lead to more intense precipitation
+per million by volume (ppmv) to more than
+cial field experiments, and indirect meaevents even when the total precipitation
+370 ppmv today, and half of the increase has
+surements such as sun photometers (5).
+remains constant, and with prospects for
+
+www.sciencemag.org SCIENCE VOL 302 5 DECEMBER 2003
+
+Downloaded from https://www.science.org at FAIRFIELD UNIVERSITY on October 15, 2024
+
+even stronger events when precipitation
+centrations of long-lived greenhouse gases are
+amount can cause either warming or coolamounts increase (16–18).
+dominated by accumulated past emissions, it
+ing. Future changes in clouds are the single
+There is considerable uncertainty as to
+takes many decades for any change in emisbiggest source of uncertainty in climate
+exactly how anthropogenic global heating
+sions to have much effect. This means the
+predictions. They contribute to an uncerwill affect the climate system, how long it
+atmosphere still has unrealized warming (estitainty in the sensitivity of models to changwill last, and how large the effects will be.
+mated to be at least another 0.5°C) and that sea
+es in greenhouse gases, ranging from a
+Climate has varied naturally in the past, but
+level rise may continue for centuries after an
+small negative feedback, thereby slightly
+today’s circumstances are unique because
+abatement of anthropogenic greenhouse gas
+reducing the direct radiative effects of inof human influences on atmospheric comemissions and the stabilization of greenhouse
+creases in greenhouse gases, to a doubling
+position. As we progress into the future, the
+gas concentrations in the atmosphere.
+of the direct radiative effect of increases in
+magnitude of the present anthropogenic
+Our understanding of the climate system
+greenhouse gases (25). Clouds and precipchange will become overwhelmingly large
+is complicated by feedbacks that either amitation processes cannot be resolved in clicompared to that of natural changes. In the
+plify or damp perturbations, the most impormate models and have to be parametrically
+absence of climate mitigation policies, the
+tant of which involve water in various phases.
+represented (parameterized) in terms of
+90% probability interval for warming from
+As temperatures increase, the water-holding
+variables that are resolved. This will con1990 to 2100 is 1.7° to 4.9°C (19). About
+capacity of the atmosphere increases along
+tinue for some time into the future, even
+half of this range is due to uncertainty in
+with water vapor amounts, producing water
+with projected increases in computational
+future emissions and about half is due to
+vapor feedback. As water vapor is a strong
+capability (26).
+uncertainties in climate models (2, 19), esgreenhouse gas, this diminishes the loss of
+Ice-albedo feedback occurs as increased
+pecially in their sensitivity to forcings that
+energy through infrared radiation to space.
+warming diminishes snow and ice cover,
+are complicated by feedbacks, discussed
+Currently, water vapor feedback is estimated
+making the planet darker and more receptive
+below, and in their rate of heat uptake by
+to contribute a radiative effect from one to
+to absorbing incoming solar radiation, causthe oceans (20). Even with these uncertaintwo times the size of the direct effect of
+ing warming, which further melts snow and
+ties, the likely outcome is more
+ice. This effect is greatest at high
+frequent heat waves, droughts,
+latitudes. Decreased snow cover
+extreme precipitation events, and
+extent has significantly contribrelated impacts (such as wild
+uted to the earlier onset of spring
+fires, heat stress, vegetation
+in the past few decades over
+changes, and sea level rise) that
+northern-hemisphere high latiwill be regionally dependent.
+tudes (27). Ice-albedo feedback
+The rate of human-induced
+is affected by changes in clouds,
+climate change is projected to
+thus complicating the net feedbe much faster than most natuback effect.
+ral processes, certainly those
+The primary tools for predictprevailing over the past 10,000
+ing future climate are global cliFig. 2. Climatology of the intensity of daily precipitation as a percentage
+years (2). Thresholds likely exmate models, which are fully
+of total amount in 10 mm/day categories for different temperature
+ist that, if crossed, could
+coupled, mathematical, computregimes, based on 51, 37, and 12 worldwide stations, respectively: blue
+bars, –3°C to 19°C; pink bars, 19°C to 29°C; dark red bars, 29°C to 35°C.
+abruptly and perhaps almost irer-based models of the physics,
+By selection, all stations have the same seasonal mean precipitation
+reversibly switch the climate to
+chemistry, and biology of the atamount of 230 ⫾ 5 mm. As temperatures and the associated watera different regime. Such rapid
+mosphere, land surface, oceans,
+holding capacity of the atmosphere (15) increase, more precipitation falls
+change is evident in past cliand cryosphere and their interacin heavy (more than 40 mm/day) to extreme (more than 100 mm/day)
+mates during a slow change in
+tions with each other and with
+daily amounts.
+the Earth’s orbit and tilt, such
+the sun and other influences
+as the Younger Dryas cold
+(such as volcanic eruptions).
+event from ⬃11,500 to ⬃12,700 years ago
+increases in anthropogenic greenhouse gases
+Outstanding issues in modeling include spec(2), perhaps caused by freshwater discharg(24, 25). Precipitation-runoff feedbacks
+ifying forcings of the climate system; propes from melting ice sheets into the North
+occur because more intense rains run off at
+erly dealing with complex feedback processAtlantic Ocean and a change in the ocean
+the expense of soil moisture, and warming
+es (Fig. 3) that affect carbon, energy, and
+thermohaline circulation (21, 22). The great
+promotes rain rather than snow. These changwater sources, sinks and transports; and imice sheets of Greenland and Antarctica may
+es in turn alter the partitioning of solar radiproving simulations of regional weather, esnot be stable, because the extent to which
+ation into sensible versus latent heating (14).
+pecially extreme events. Today’s inadequate
+cold-season heavier snowfall partially offHeat storage feedbacks include the rate at
+or incomplete measurements of various forcsets increased melting as the climate warms
+which the oceans take up heat and the curings, with the exception of well-mixed greenremains uncertain. A combination of ocean
+rents redistribute and release it back into the
+house gases, add uncertainty when trying to
+temperature increases and ice sheet melting
+atmosphere at variable later times and differsimulate past and present climate. Conficould systematically inundate the world’s
+ent locations.
+dence in our ability to predict future climate
+coasts by raising sea level for centuries.
+Cloud feedback occurs because clouds
+is dependent on our ability to use climate
+Given what has happened to date and is
+both reflect solar radiation, causing coolmodels to attribute past and present climate
+projected in the future (2), substantial further
+ing, and trap outgoing long-wave radiation,
+change to specific forcings. Through clever
+climate change is guaranteed. The rate of
+causing warming. Depending on the height,
+use of paleoclimate data, our ability to reconchange can be slowed, but it is unlikely to be
+location, and the type of clouds with their
+struct past forcings should improve, but it is
+stopped in the 21st century (23). Because conrelated optical properties, changes in cloud
+unlikely to provide the regional detail neces-
+
+1721
+
+ern North America, and El Niño, which has
+large regional effects around the world, are
+behaving in unusual ways that appear to be
+linked to global heating (2, 31–33). Hence,
+it is necessary to be able to predict the
+statistics of the NAO and El Niño to make
+reliable regional climate projections.
+Ensembles of model predictions have to
+be run to generate probabilities and address
+the chaotic aspects of weather and climate.
+This can be addressed in principle with adequate computing power, a challenge in itself.
+However, improving models to a point where
+they are more reliable and have sufficient
+resolution to be properly able to represent
+known important processes also requires the
+right observations, understanding, and insights (brain power). Global climate models
+will need to better integrate the biological,
+chemical, and physical components of the
+Earth system (Fig. 3). Even more challenging
+is the seamless flow of data and information
+among observing systems, Earth system
+models, socioeconomic models, and models
+
+that address managed and unmanaged ecosystems. Progress here is dependent on overcoming not only scientific and technical
+issues but also major institutional and international obstacles related to the free flow of
+climate-related data and information.
+In large part, reduction in uncertainty
+about future climate change will be driven by
+studies of climate change assessment and attribution. Along with climate model simulations of past climates, this requires comprehensive and long-term climate-related data
+sets and observing systems that deliver data
+free of time-dependent biases. These observations would ensure that model simulations
+are evaluated on the basis of actual changes
+in the climate system and not on artifacts of
+changes in observing system technology or
+analysis methods (34). The recent controversy regarding the effects that changes in observing systems have had on the rate of surface versus tropospheric warming (35, 36)
+highlights this issue. Global monitoring
+through space-based and surface-based systems is an international matter, much like
+global climate change. There are encouraging
+signs, such as the adoption in 1999 of a set of
+climate monitoring principles (37), but these
+principles are impotent without implementation. International implementation of these
+principles is spotty at best (38).
+We are entering the unknown with our
+climate. We need a global climate observing
+system, but only parts of it exist. We must not
+only take the vital signs of the planet but also
+assess why they are fluctuating and changing.
+Consequently, the system must embrace
+comprehensive analysis and assessment as
+integral components on an ongoing basis, as
+well as innovative research to better interpret
+results and improve our diagnostic capabilities. Projections into the future are part of
+such activity, and all aspects of an Earth
+information system feed into planning for the
+future, whether by planned adaptation or mitigation. Climate change is truly a global issue, one that may prove to be humanity’s
+greatest challenge. It is very unlikely to be
+adequately addressed without greatly improved international cooperation and action.
+References and Notes
+
+Fig. 3. Components of the climate system and the interactions among them, including the human
+component. All these components have to be modeled as a coupled system that includes the
+oceans, atmosphere, land, cryosphere, and biosphere. GCM, General Circulation Model.
+
+1722
+
+1. J. T. Kiehl, K. E. Trenberth, Bull. Am. Meteorol. Soc.
+78, 197 (1997).
+2. J. T. Houghton et al., Eds., Climate Change 2001: The
+Scientiﬁc Basis (Cambridge Univ. Press, Cambridge,
+2001) (available at www.ipcc.ch/).
+3. R. J. Cicerone, Proc. Natl. Acad. Sci. U.S.A. 100,
+10304 (2000).
+4. Atmospheric CO2 concentrations from air samples
+and from ice cores are available at http://cdiac.esd.ornl.
+gov/trends/co2/sio-mlo.htm and http://cdiac.esd.
+ornl.gov/trends/co2/siple.htm, respectively.
+5. M. Sato et al., Proc. Natl. Acad. Sci. U.S.A. 100, 6319
+(2003).
+
+5 DECEMBER 2003 VOL 302 SCIENCE www.sciencemag.org
+
+Downloaded from https://www.science.org at FAIRFIELD UNIVERSITY on October 15, 2024
+
+sary that comes from long-term direct measurements. An example of forcing uncertainty comes from recent satellite observations and data analyses of 20th-century surface, upper air, and ocean temperatures,
+which indicate that estimates of the indirect
+effects of sulfate aerosols on clouds may be
+high, perhaps by as much as a factor of two
+(27–29). Human behavior, technological
+change, and the rate of population growth
+also affect future emissions and our ability
+to predict these must be factored into any
+long-term climate projection.
+Regional predictions are needed for improving assessments of vulnerability to and impacts
+of change. The coupled atmosphere-ocean system has a preferred mode of behavior known as
+El Niño, and similarly the atmosphere is known
+to have preferred patterns of behavior, such as
+the North Atlantic Oscillation (NAO). So how
+will El Niño and the NAO change as the climate
+changes? There is evidence that the NAO,
+which affects the severity of winter temperatures and precipitation in Europe and east-
+
+16. R. W. Katz, Adv. Water Res. 23, 133 (1999).
+17. P. Ya. Groisman, Clim. Change. 42, 243 (1999).
+18. T. R. Karl, R. W. Knight, Bull. Am. Meteorol. Soc. 78,
+1107 (1998).
+19. T. Wigley, S. Raper, Science 293, 451 (2001).
+20. S. J. Levitus et al., Science 287, 2225 (2001).
+21. W. S. Broecker, Science 278, 1582 (1997).
+22. T. F. Stocker, O. Marchal, Proc. Natl. Acad. Sci. U.S.A.
+97, 1362 (2000).
+23. M. Hoffert et al., Science 298, 981 (2002).
+24. U.S. National Research Council, Climate Change Science: An Analysis of Some Key Questions (National
+Academy, Washington, DC, 2001).
+25. R. Colman, Clim. Dyn. 20, 865 (2003).
+26. T. R. Karl, K. E. Trenberth, Sci. Am. 281, 100 (December 1999).
+27. P. Ya. Groisman, T. R. Karl, R. W. Knight, G. L.
+Stenchikov, Science 263, 198 (1994).
+28. C. E. Forest, P. H. Stone, A. Sokolov, M. R. Allen, M. D.
+Webster, Science 295, 113 (2002).
+29. J. Coakley Jr., C. D. Walsh, J. Atmos. Sci. 59, 668
+(2002).
+30. J. Coakley Jr., personal communication.
+31. M. A. Saunders, Geophys. Res. Lett. 30, 1378 (2003).
+32. M. P. Hoerling, J. W. Hurrell, T. Xu, Science 292, 90
+(2001).
+33. K. E. Trenberth, T. J. Hoar, Geophys. Res. Lett. 24,
+3057 (1997).
+
+34. K. E. Trenberth, T. R. Karl, T. W. Spence, Bull. Amol.
+Meteor. Soc. 83, 1558 (2002).
+35. The Climate Change Science Program plan is available at www.climatescience.gov.
+36. B. Santer et al., Science, 300, 1280 (2003).
+37. The climate principles were adopted by the Subsidiary Body on Science, Technology and Assessment of
+the United Nations Framework Convention on Climate Change (UNFCCC).
+38. Global Climate Observing System (GCOS), The Second Report on the Adequacy of the Global Observing
+Systems for Climate in Support of the UNFCCC.
+(GCOS-82, WMO/TD 1143, World Meteorological
+Organisation, Geneva, 2003) (available from www.
+wmo.ch/web/gcos/gcoshome.html).
+39. We thank A. Leetmaa, J. Hurrell, J. Mahlman, and R.
+Cicerone for helpful comments, and J. Enloe for providing the calculations for Fig. 2. This article reﬂects
+the views of the authors and does not reﬂect government policy. The National Climatic Data Center is
+part of NOAA’s Satellite and Information Services.
+The National Center for Atmospheric Research is
+sponsored by the NSF.
+Web Resources
+www.sciencemag.org/cgi/content/full/302/5651/1719/
+DC1
+8 August 2003; accepted 29 October 2003
+
+www.sciencemag.org SCIENCE VOL 302 5 DECEMBER 2003
+
+Downloaded from https://www.science.org at FAIRFIELD UNIVERSITY on October 15, 2024
+
+6. A. J. Dolman, A. Verhagen, C. A. Rovers, Eds. Global
+Environmental Change and Land Use (Kluwer, Dordrecht, Netherlands, 2003).
+7. G. B. Bonan, Ecol. Appl., 9, 1305 (1999).
+8. J. G. Charney, Q. J. R. Meteorol. Soc. 101, 193 (1975).
+9. C. Nobre et al., in Vegetation, Water, Humans, and
+the Climate, P. Kabot et al., Eds. (Springer Verlag,
+Heidelberg, Germany, in press, 2003).
+10. A. N. Hahmann, R. E. Dickinson, J. Clim. 10, 1944 (1997).
+11. U.S. Department of State, U.S. Climate Action Report 2002 (Washington, DC, 2002) (available at
+http://yosemite.epa.gov/oar/globalwarming.nsf/content/
+ResourceCenterPublicationsUSClimateActionReport.html).
+12. G. Marland, T. A. Boden, R. J. Andres, at the Web site
+Trends: A Compendium of Data on Global Change
+(CO2 Information Analysis Center, Oak Ridge National Laboratory, Oak Ridge, TN, 2002; available at
+http: //cdiac.esd.ornl.gov/trends/emis/em-cont.htm).
+13. Global temperatures are available from www.ncdc.
+noaa.gov/oa/climate/research/2002/ann/ann02.html.
+14. K. E. Trenberth, A. Dai, R. M. Rasmussen, D. B. Parsons,
+Bull. Am. Meteorol. Soc. 84, 1205 (2003) (available
+at www.cgd.ucar.edu/cas/adai/papers/rainChBamsR.
+pdf).
+15. The Clausius Clapeyron equation governs the waterholding capacity of the atmosphere, which increases
+by ⬃7% per degree Celsius increase in temperature
+(13).
+
+1723
+
+
