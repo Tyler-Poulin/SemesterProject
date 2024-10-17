@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StopWordFilter
+comment1.params=stopWordsFilePath
+comment1.target=StopWordFilter(java.lang.String)
+comment2.params=filePath
+comment2.target=void\ loadStopWords(java.lang.String)
+comment3.params=text
+comment3.target=java.lang.String\ filter(java.lang.String)
+numComments=4

@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Correct path to the stopwords file
-        StopWordFilter stopWordFilter = new StopWordFilter("C:/Users/typou/OneDrive/Documents/Programming Folder/Programming Lab Project/Library/Topic 1/Topic1/stopwords.txt");
+        StopWordFilter stopWordFilter = new StopWordFilter("C:/Users/typou/OneDrive/Documents/Programming Folder/Programming Lab Project/Library/Topic 2/stopwords.txt");
 
         // Correct path to the article directory
-        ArticleProcessor articleProcessor = new ArticleProcessor("C:/Users/typou/OneDrive/Documents/Programming Folder/Programming Lab Project/Library/Topic 1/Topic1");
+        ArticleProcessor articleProcessor = new ArticleProcessor("C:/Users/typou/OneDrive/Documents/Programming Folder/Programming Lab Project/Library/Topic 2");
 
         // Read articles
         articleProcessor.readArticles();
