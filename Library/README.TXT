@@ -8,5 +8,5 @@ PROJECT TITLE: Milestone 1 Semester Project
 PURPOSE OF PROJECT: To implement a software application that runs (basic) text analysis with
 the goal of comparing articles about the same topic/news.
 VERSION or DATE: 10/16
-AUTHORS: Tyler Poulin, 
+AUTHORS: Tyler Poulin, Nick Peeples
 USER INSTRUCTIONS: When in the main class run the program and it will prompt you to choose a text file within a given topic to analyze the article of your choice. Once given you will than be met with a number of facts about that article. 
